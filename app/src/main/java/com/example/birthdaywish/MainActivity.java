@@ -49,26 +49,28 @@ public class MainActivity extends AppCompatActivity {
 
     private  class AutoPicsTask extends AsyncTask<Integer, Void, Integer> {
         Integer pics[] = {
-                R.drawable.hbd_1,
-                R.drawable.hbd_2,
-                R.drawable.hbd_3,
-                R.drawable.hbd_4,
-                R.drawable.hbd_5,
-                R.drawable.hbd_6,
-                R.drawable.hbd_7,
-                R.drawable.hbd_8,
-                R.drawable.hbd_9,
-                R.drawable.hbd_10,
-                R.drawable.hbd_11,
-                R.drawable.hbd_12,
-                R.drawable.hbd_13,
-                R.drawable.hbd_14,
-                R.drawable.hbd_15,
-                R.drawable.hbd_16,
-                R.drawable.hbd_17,
-                R.drawable.hbd_18,
-                R.drawable.hbd_19,
-                R.drawable.hbd_20
+                R.drawable.dd_1,
+                R.drawable.dd_2,
+                R.drawable.dd_3,
+                R.drawable.dd_4,
+                R.drawable.dd_5,
+                R.drawable.dd_6,
+                R.drawable.dd_7,
+                R.drawable.dd_8,
+                R.drawable.dd_9,
+                R.drawable.dd_10,
+                R.drawable.dd_11,
+                R.drawable.dd_12,
+                R.drawable.dd_13,
+                R.drawable.dd_14,
+                R.drawable.dd_15,
+                R.drawable.dd_16,
+                R.drawable.dd_17,
+                R.drawable.dd_18,
+                R.drawable.dd_19,
+                R.drawable.dd_20,
+                R.drawable.dd_21,
+                R.drawable.dd_22
 
         };
         @Override
